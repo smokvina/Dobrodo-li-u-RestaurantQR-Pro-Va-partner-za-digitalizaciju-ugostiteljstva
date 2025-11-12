@@ -1,0 +1,7 @@
+{
+  "name": "RestaurantQR Pro",
+  "description": "A mobile application that combines OCR technology, a QR generator, and an AI chatbot advisor for restaurant owners in Croatia to help them digitize their business.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
